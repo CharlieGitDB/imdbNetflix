@@ -1,0 +1,10 @@
+.imdbrating {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  z-index: 3000;
+  background: white;
+  font-size: 30px;
+  text-align: center;
+  color: black;
+}
